@@ -1,4 +1,21 @@
-# react-webpack5-typescript
-리액트+웹팩5+타입스크립트+바벨
+# CRA 없이 초기셋팅하고 API 연동하기
+## # structure
 
-깔끔한 스타터 입니다. 가져가실때.. 스타한번 눌러주시면 감사하겠습니다.
+```
+config 
+  - webpack.common.js
+  - webpack.dev.js
+  - webpack.prod.js
+
+node_modules
+
+src
+  - public
+      -index.html
+  -index.tsx
+  -App.tsx
+.babelrc
+package.json
+tsconfig.json
+yarn.lock
+```
