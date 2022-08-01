@@ -1,6 +1,6 @@
 # CRA 없이 초기셋팅하고 API 연동하기
 ## # structure
-
+React-typeScript-Webpack5-babel
 ```
 config 
   - webpack.common.js
